@@ -91,3 +91,4 @@ html[data-theme=dark] nav a.cta,html[data-theme=dark] .btn{color:#06202B}
 html[data-theme=dark] .btn.ghost{color:#fff}
 html[data-theme=dark] .hero{background:radial-gradient(1000px 520px at 78% 8%,rgba(91,108,255,.45),transparent 60%),radial-gradient(700px 400px at 5% 100%,rgba(45,212,191,.16),transparent 60%),#070920}
 @media(max-width:860px){.tt{margin-left:0}}
+@media(max-width:640px){nav a.cta{display:none}.bar{padding:10px 16px;gap:10px}.brand{min-width:0;flex:1}.brand span{font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.tt{flex:0 0 auto}}
