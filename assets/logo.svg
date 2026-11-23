@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 120 120">
+<title>Forty Four Technologies</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A2F9E"/><stop offset="1" stop-color="#14174F"/></linearGradient></defs>
+<rect x="4" y="4" width="112" height="112" rx="28" fill="url(#g)"/>
+<g transform="translate(20,38) scale(0.4)"><path d="M84 4 H62 L4 66 V84 H62 V96 H84 V84 H96 V64 H84 Z M62 28 L26 64 H62 Z" fill="#FFFFFF" fill-rule="evenodd"/></g>
+<g transform="translate(62,38) scale(0.4)"><path d="M84 4 H62 L4 66 V84 H62 V96 H84 V84 H96 V64 H84 Z M62 28 L26 64 H62 Z" fill="#2DD4BF" fill-rule="evenodd"/></g>
+</svg>
